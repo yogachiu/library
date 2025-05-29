@@ -11,7 +11,10 @@
 - 使用 PHP 進行開發，實現系統功能與介面互動
 - apache
 ## 系統功能
-分為會員 / 管理者介面：  
+### Demo影片連結：https://drive.google.com/file/d/1p_eh636Qy1sgHsd_YjNgf9B8zZmf9mY3/view?usp=sharing
+
+
+### 分為會員 / 管理者介面：  
 
 ### <mark> 會員介面 </mark>
 - 註冊帳號
@@ -48,7 +51,5 @@
   ![img219](https://github.com/user-attachments/assets/97ca320e-0a6a-4cfb-ab07-ce75b0fabaea)
   ![img224](https://github.com/user-attachments/assets/f0fa3521-f748-4fd0-b57f-d25d32f29ad4)
 
-## Demo影片
-影片連結：https://drive.google.com/file/d/1p_eh636Qy1sgHsd_YjNgf9B8zZmf9mY3/view?usp=sharing
 ## 專案心得
 在專案開發的過程中，我學到很多寶貴的知識與經驗。一開始我們想了很多功能，比如座位即時顯示、預約者遲到則座位自動釋出等功能，但實際開發時卻發現許多功能都比預期困難許多。比如要記錄預約者是否遲到，就需要結合圖書館的門禁系統，。除了需要不斷進行程式除錯，我們還要同時考量系統整體流程的設計與資料庫屬性的規劃。這三個部分必須密切配合，系統才能順利運作、網頁也才能穩定呈現所需的功能。
