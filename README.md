@@ -10,7 +10,7 @@
 - Apache HTTP Server：網頁伺服器，負責處理用戶端請求與回應頁面內容
 - php：開發網頁功能，讓伺服器能夠解析並執行 php 程式碼
 - MySQL：資料庫系統，負責儲存與管理使用者資訊、座位資料與預約紀錄
-- phpMyAdmin：資料庫管理工具，可用Web介面管理MySQL資料庫
+- phpMyAdmin：資料庫管理工具，可用 Web 介面管理 MySQL 資料庫
 ## 系統功能
 ### Demo影片：https://drive.google.com/file/d/1p_eh636Qy1sgHsd_YjNgf9B8zZmf9mY3/view?usp=sharing
 
