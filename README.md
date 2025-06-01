@@ -11,6 +11,10 @@
 - php：開發網頁功能，讓伺服器能夠解析並執行 php 程式碼
 - MySQL：資料庫系統，負責儲存與管理使用者資訊、座位資料與預約紀錄
 - phpMyAdmin：資料庫管理工具，可用 Web 介面管理 MySQL 資料庫
+- 
+## 資料庫架構圖
+![螢幕擷取畫面 2025-06-01 152737](https://github.com/user-attachments/assets/a68a5946-ff4a-4e50-918b-32b92855da4a)
+
 ## 系統功能
 ### Demo影片：https://drive.google.com/file/d/1p_eh636Qy1sgHsd_YjNgf9B8zZmf9mY3/view?usp=sharing
 
